@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ksu.Cis300.StreetViewer.Form1">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="Map" Hidden="true" />
+      <Field Name="openFileDialog1" Hidden="true" />
+      <Field Name="toolStrip1" Hidden="true" />
+      <Field Name="ux_ZoomIn" Hidden="true" />
+      <Field Name="ux_ZoomOut" Hidden="true" />
+      <Field Name="uxMapPanel" Hidden="true" />
+      <Field Name="uxOpenMouse" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAkAAAAAIDAAAAAAAECAQAACABEAAAQBACAEAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ksu.Cis300.StreetViewer.QuadTree">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAgAAAAAAAIAAACAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>QuadTree.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_qTree" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="lineNode" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Ksu.Cis300.StreetViewer.Map">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAiIAAKAAiABAAAAAACAQAACAAoAIACAAAAAAgABAiE=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Ksu.Cis300.StreetViewer.Node">
+    <Position X="0.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEEAAAAAAAQAAAIEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Struct>
+  <Struct Name="Ksu.Cis300.StreetViewer.LineSegment">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAgAAAAAAEAAAAAAEAQAAAAAAAAAQAAAA=</HashCode>
+      <FileName>LineSegment.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

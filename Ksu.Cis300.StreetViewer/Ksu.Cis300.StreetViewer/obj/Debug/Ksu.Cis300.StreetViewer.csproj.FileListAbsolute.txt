@@ -1,0 +1,10 @@
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Ksu.Cis300.StreetViewer\Ksu.Cis300.StreetViewer\bin\Debug\Ksu.Cis300.StreetViewer.exe.config
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Ksu.Cis300.StreetViewer\Ksu.Cis300.StreetViewer\bin\Debug\Ksu.Cis300.StreetViewer.exe
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Ksu.Cis300.StreetViewer\Ksu.Cis300.StreetViewer\bin\Debug\Ksu.Cis300.StreetViewer.pdb
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Ksu.Cis300.StreetViewer\Ksu.Cis300.StreetViewer\obj\Debug\Ksu.Cis300.StreetViewer.csprojResolveAssemblyReference.cache
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Ksu.Cis300.StreetViewer\Ksu.Cis300.StreetViewer\obj\Debug\Ksu.Cis300.StreetViewer.Form1.resources
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Ksu.Cis300.StreetViewer\Ksu.Cis300.StreetViewer\obj\Debug\Ksu.Cis300.StreetViewer.Properties.Resources.resources
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Ksu.Cis300.StreetViewer\Ksu.Cis300.StreetViewer\obj\Debug\Ksu.Cis300.StreetViewer.Map.resources
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Ksu.Cis300.StreetViewer\Ksu.Cis300.StreetViewer\obj\Debug\Ksu.Cis300.StreetViewer.csproj.GenerateResource.Cache
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Ksu.Cis300.StreetViewer\Ksu.Cis300.StreetViewer\obj\Debug\Ksu.Cis300.StreetViewer.exe
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\Ksu.Cis300.StreetViewer\Ksu.Cis300.StreetViewer\obj\Debug\Ksu.Cis300.StreetViewer.pdb
